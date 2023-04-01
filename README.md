@@ -18,8 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [netlify](https://deft-granita-b2564e.netlify.app/)
 
 ## My process
 
@@ -30,4 +29,4 @@ Users should be able to:
 - Flexbox
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@eve-wangari](https://www.frontendmentor.io/profile/eve-wangari)
